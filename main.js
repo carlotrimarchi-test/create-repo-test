@@ -1,1 +1,1 @@
-console.log("solution");
+console.log("main");
